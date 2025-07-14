@@ -6,12 +6,12 @@
 - React (Frontend)
 - Node.js
 - Render (Backend Hosting)
-- Netlify (Frontend Hosting)
+- Vercel (Frontend Hosting)
 - GitHub Actions (CI/CD)
 
 ## 🌐 Live Links
 - Frontend: https://week-5-web-sockets-assignment-brigh.vercel.app/
-- Backend: [Render URL](https://mern-backend.onrender.com)
+- Backend: https://week-5-web-sockets-assignment-brighton100.onrender.com
 
 ## 🚀 CI/CD Pipeline
 GitHub Actions used for automatic testing and deployment.
