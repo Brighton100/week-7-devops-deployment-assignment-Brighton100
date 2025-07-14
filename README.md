@@ -32,5 +32,7 @@ GitHub Actions used for automatic testing and deployment.
 
 ## 📸 Screenshots
 - [ ] Screenshot of frontend build 
-- [ ] Screenshot of backend build
 <img width="944" height="405" alt="front" src="https://github.com/user-attachments/assets/3689c0df-8395-4640-b234-07530e46056b" />
+
+ [ ] Screenshot of backend build
+<img width="936" height="419" alt="bac" src="https://github.com/user-attachments/assets/44945cfc-c943-4c8b-a097-41a88f6961da" />
