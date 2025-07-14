@@ -10,10 +10,10 @@
 - GitHub Actions (CI/CD)
 
 ## 🌐 Live Links
-- Frontend: [Netlify URL](https://your-app.netlify.app)
+- Frontend: https://week-5-web-sockets-assignment-brigh.vercel.app/
 - Backend: [Render URL](https://mern-backend.onrender.com)
 
-## 🚀 CI/CD Pipelines
+## 🚀 CI/CD Pipeline
 GitHub Actions used for automatic testing and deployment.
 
 ### Frontend Pipeline
