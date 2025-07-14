@@ -31,5 +31,6 @@ GitHub Actions used for automatic testing and deployment.
 4. Push to GitHub to trigger CI/CD
 
 ## 📸 Screenshots
-- [ ] Screenshot of frontend build
+- [ ] Screenshot of frontend build 
 - [ ] Screenshot of backend build
+<img width="944" height="405" alt="front" src="https://github.com/user-attachments/assets/3689c0df-8395-4640-b234-07530e46056b" />
