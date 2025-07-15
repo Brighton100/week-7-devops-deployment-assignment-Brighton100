@@ -1,17 +1,32 @@
 {
-  "name": "week-5-web-sockets-assignment-brighton100",
+  "name": "brighton-gym-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Brighton Gym Management App - MERN Stack Application",
+  "main": "app.js",
   "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "build": "cd client && npm run build",
+    "install-client": "cd client && npm install",
+    "heroku-postbuild": "npm run install-client && npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["gym", "fitness", "mern", "mongodb", "express", "react", "nodejs"],
+  "author": "Brighton Mark Ochieng",
   "license": "ISC",
   "packageManager": "pnpm@10.12.4",
   "dependencies": {
-    "express": "^5.1.0",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
     "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
   }
 }
